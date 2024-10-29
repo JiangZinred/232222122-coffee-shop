@@ -1,0 +1,25 @@
+/* 在这里可以添加自定义的样式，对Bootstrap样式进行补充或修改 */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.carousel-caption {
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.form-control:focus {
+    border-color: #a6ac32;
+    box-shadow: 0 0 0 0.2rem rgba(153, 169, 34, 0.25);
+}
